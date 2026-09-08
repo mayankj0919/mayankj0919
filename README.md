@@ -60,6 +60,23 @@ Personalize the lines above. Good prompts to answer:
 
 <div align="center">
 
+<pre>
+              (
+               )
+              (
+             /\
+            /  \
+           / /\ \
+          / /  \ \
+         / / /\ \ \
+        / / /  \ \ \
+       / /_/    \_\ \
+       \            /
+        \    /\    /
+         \  /  \  /
+          \/    \/
+</pre>
+
 _Thanks for stopping by._
 
 </div>
