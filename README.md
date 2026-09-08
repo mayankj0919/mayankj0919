@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mayank
+# Hey, I'm Mayank Joshi
 
 ### I turn ideas into useful software and learn by building.
 
