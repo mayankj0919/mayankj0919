@@ -4,9 +4,6 @@
 
 ### I turn ideas into useful software and learn by building.
 
-[![Profile views](https://komarev.com/ghpvc/?username=mayankj0919&label=Profile%20views&color=6e56cf&style=flat)](https://github.com/mayankj0919)
-[![GitHub followers](https://img.shields.io/github/followers/mayankj0919?label=Follow&style=flat&color=6e56cf)](https://github.com/mayankj0919?tab=followers)
-
 </div>
 
 ## About me
@@ -35,6 +32,7 @@ Personalize the lines above. Good prompts to answer:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
