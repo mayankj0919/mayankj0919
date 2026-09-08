@@ -46,21 +46,8 @@ Personalize the lines above. Good prompts to answer:
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
-
-## Featured work
-
-<!--
-Replace owner/repository and the descriptions with your best 2–4 projects, then
-remove the opening and closing comment markers around the table.
-
-| Project | What it does | Built with |
-|---|---|---|
-| [Project One](https://github.com/mayankj0919/project-one) | A short, outcome-focused description of the project. | `Your stack` |
-| [Project Two](https://github.com/mayankj0919/project-two) | Explain the problem it solves in one clear sentence. | `Your stack` |
--->
-
-_Projects worth sharing are on the way._
 
 ## Let's connect
 
