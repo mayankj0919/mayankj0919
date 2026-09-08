@@ -44,21 +44,6 @@ remove the opening and closing comment markers around the table.
 
 _Projects worth sharing are on the way._
 
-## GitHub activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mayankj0919&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mayankj0919&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mayankj0919&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Mayank's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankj0919&layout=compact&hide_border=true&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankj0919&layout=compact&hide_border=true&theme=default" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankj0919&layout=compact&hide_border=true&theme=default" alt="Mayank's most-used languages" />
-  </picture>
-</div>
-
 ## Let's connect
 
 <!-- Add only the links you want to make public. -->
