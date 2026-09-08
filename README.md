@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Mayank 👋
+# Hey, I'm Mayank
 
 ### I turn ideas into useful software and learn by building.
 
@@ -11,10 +11,10 @@
 
 ## About me
 
-- 🔭 I enjoy building practical projects and exploring new technologies.
-- 🌱 I'm always learning, experimenting, and improving my craft.
-- 💡 I care about clean code, thoughtful user experiences, and useful outcomes.
-- 🤝 I'm open to collaborating on interesting projects.
+- I enjoy building practical projects and exploring new technologies.
+- I'm always learning, experimenting, and improving my craft.
+- I care about clean code, thoughtful user experiences, and useful outcomes.
+- I'm open to collaborating on interesting projects.
 
 <!--
 Personalize the lines above. Good prompts to answer:
